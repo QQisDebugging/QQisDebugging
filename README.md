@@ -76,9 +76,29 @@ Project polish        README / deployment notes / demo-ready details
 
 ## GitHub Notes
 
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Code</strong>
+      <br />
+      Java backend, clear modules, stable APIs.
+    </td>
+    <td width="33%">
+      <strong>Build</strong>
+      <br />
+      From runnable demos to polished project showcases.
+    </td>
+    <td width="33%">
+      <strong>Learn</strong>
+      <br />
+      AI apps, data practice, and engineering details.
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QQisDebugging&show_icons=true&bg_color=fff7fb&title_color=c0568d&text_color=6b5876&icon_color=e7a6c8&border_color=f4c7dc&hide_border=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQisDebugging&layout=compact&bg_color=faf7ff&title_color=7c5ca8&text_color=6b5876&border_color=decdf7" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Repository%20Style-Clean%20README-fff0f6?style=for-the-badge&labelColor=f6a8c9&color=fff7fb" alt="Clean README" />
+  <img src="https://img.shields.io/badge/Project%20Goal-Demo%20Ready-faf7ff?style=for-the-badge&labelColor=cbb6ff&color=f7fbff" alt="Demo ready" />
 </p>
 
 ## A Little More
