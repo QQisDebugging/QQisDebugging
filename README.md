@@ -12,6 +12,7 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Java%20Backend-f6a8c9?style=flat" alt="focus backend" />
   <img src="https://img.shields.io/badge/Learning-AI%20Apps-cbb6ff?style=flat" alt="learning ai apps" />
+  <img src="https://img.shields.io/badge/Practice-OS%20Kernel-b7e4f9?style=flat" alt="os kernel practice" />
   <img src="https://img.shields.io/badge/Style-Clean%20and%20Gentle-b7e4f9?style=flat" alt="style" />
 </p>
 
@@ -23,7 +24,7 @@
 
 - 主要方向：Java Web、Spring 生态、MySQL、Redis、项目工程化
 - 正在学习：AI 聊天应用、RAG、SSE 流式响应、模型接入
-- 也在实践：Python 数据分析、Spark 任务、课程项目展示和报告整理
+- 也在实践：操作系统内核、Python 数据分析、Spark 任务、课程项目展示和报告整理
 - 偏好的工作方式：先跑通，再打磨；先明确问题，再动手修改
 
 ## Tech Stack
@@ -33,6 +34,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-f3f8ee?style=for-the-badge&logo=springboot&logoColor=6db33f" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/MySQL-eff6ff?style=for-the-badge&logo=mysql&logoColor=4479a1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-fff1f2?style=for-the-badge&logo=redis&logoColor=dc382d" alt="Redis" />
+  <img src="https://img.shields.io/badge/C-f7fbff?style=for-the-badge&logo=c&logoColor=4e86a8" alt="C" />
+  <img src="https://img.shields.io/badge/Linux-faf7ff?style=for-the-badge&logo=linux&logoColor=7c5ca8" alt="Linux" />
   <img src="https://img.shields.io/badge/Vue-f0fdf4?style=for-the-badge&logo=vuedotjs&logoColor=42b883" alt="Vue" />
   <img src="https://img.shields.io/badge/Python-f8fafc?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python" />
   <img src="https://img.shields.io/badge/Maven-fdf2f8?style=for-the-badge&logo=apachemaven&logoColor=c71a36" alt="Maven" />
@@ -44,6 +47,16 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>Oops-OS</h3>
+      <p>基于 xv6-RISCV 的小型 OS 内核实现，围绕系统调用、进程调度、内存管理、文件系统和设备管理做功能扩展与验证。</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-f7fbff?style=flat&logo=c&logoColor=4e86a8" alt="C" />
+        <img src="https://img.shields.io/badge/RISC--V-fff7fb?style=flat&logo=riscv&logoColor=c0568d" alt="RISC-V" />
+        <img src="https://img.shields.io/badge/Kernel-faf7ff?style=flat&logo=linux&logoColor=7c5ca8" alt="Kernel" />
+      </p>
+      <a href="https://github.com/QQisDebugging/Oops-OS">View Repository</a>
+    </td>
+    <td width="50%">
       <h3>JChatMind</h3>
       <p>AI 聊天应用实践项目，重点关注 Java 后端、流式响应、工具调用、RAG 思路和工程化整理。</p>
       <p>
@@ -53,6 +66,8 @@
       </p>
       <a href="https://github.com/QQisDebugging/JChatMind">View Repository</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Lab Resource Manage</h3>
       <p>实验室资源管理系统课程项目，围绕用户、实验室、资源、活动、请假、借用、维修和公告等管理场景实现。</p>
@@ -61,6 +76,38 @@
         <img src="https://img.shields.io/badge/MySQL-eff6ff?style=flat&logo=mysql&logoColor=4479a1" alt="MySQL" />
         <img src="https://img.shields.io/badge/Course%20Project-fff7fb?style=flat&logo=readme&logoColor=c0568d" alt="Course Project" />
       </p>
+      <a href="https://github.com/QQisDebugging/hfut-xc-lab-resource-manage-main">View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>企业之家</h3>
+      <p>大一大创期间制作的静态网页项目，包含企业服务与政策信息展示、留言页面和 2048 小游戏页面。</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-fff0f6?style=flat&logo=html5&logoColor=e34f26" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-f7fbff?style=flat&logo=css&logoColor=4e86a8" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-faf7ff?style=flat&logo=javascript&logoColor=b8860b" alt="JavaScript" />
+      </p>
+      <a href="https://github.com/QQisDebugging/qiyezhijia">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+## More Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>HFUTSCNetworkStudy</strong>
+      <br />
+      GitHub Actions 与 Python 自动化实践 fork，用于理解工作流配置和脚本运行方式。
+      <br />
+      <a href="https://github.com/QQisDebugging/HFUTSCNetworkStudy">View Repository</a>
+    </td>
+    <td width="50%">
+      <strong>Profile README</strong>
+      <br />
+      这个仓库用于维护 GitHub 个人主页，记录近期项目、技术栈和展示风格。
+      <br />
+      <a href="https://github.com/QQisDebugging/QQisDebugging">View Repository</a>
     </td>
   </tr>
 </table>
@@ -70,8 +117,10 @@
 ```text
 Java backend          Spring / Spring MVC / MyBatis-Plus
 AI application        Chat app / SSE / RAG / model integration
+OS practice           xv6-RISCV / C / scheduler / memory / filesystem
 Data practice         Python / Spark / Pandas / analysis reports
 Project polish        README / deployment notes / demo-ready details
+Web showcase          HTML / CSS / JavaScript / static pages
 ```
 
 ## Contribution Garden
