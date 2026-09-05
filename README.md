@@ -1,166 +1,111 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:f8b8d0,50:d9c4ff,100:b7e4f9&text=Hi,%20I'm%20CQQ&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Java%20Backend%20%7C%20AI%20Apps%20%7C%20Data%20Practice&descAlignY=58&descSize=17" alt="profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:f8b8d0,50:d9c4ff,100:b7e4f9&text=Hi,%20I'm%20CQQ&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=Java%20Backend%20%7C%20Test%20Development%20%7C%20AI%20Engineering&descAlignY=58&descSize=16" alt="QQisDebugging profile header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=C05A8E&center=true&vCenter=true&width=700&lines=Building+clean+backend+systems+with+care;Learning+AI+application+engineering;Turning+course+projects+into+presentable+work" alt="typing intro" />
+  <a href="https://github.com/QQisDebugging"><img src="https://img.shields.io/badge/GitHub-QQisDebugging-24292f?style=flat&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=QQisDebugging&label=Profile%20Views&color=f3a6c8&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Java%20%2F%20Test%20Development-f6a8c9?style=flat" alt="open to java and test development" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/QQisDebugging">
-    <img src="https://komarev.com/ghpvc/?username=QQisDebugging&label=Profile%20Views&color=f3a6c8&style=flat" alt="profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-f6a8c9?style=flat" alt="focus backend" />
-  <img src="https://img.shields.io/badge/Learning-AI%20Apps-cbb6ff?style=flat" alt="learning ai apps" />
-  <img src="https://img.shields.io/badge/Practice-OS%20Kernel-b7e4f9?style=flat" alt="os kernel practice" />
-  <img src="https://img.shields.io/badge/Style-Clean%20and%20Gentle-b7e4f9?style=flat" alt="style" />
+  <a href="#-about-me">About</a> ·
+  <a href="#-featured-projects">Projects</a> ·
+  <a href="#-tech-stack">Tech Stack</a> ·
+  <a href="#-current-focus">Focus</a>
 </p>
 
-## About Me
+## 👋 About Me
 
-你好，我是陈倩倩，目前主要关注 Java 后端开发、AI 应用工程和数据处理实践。
+你好，我是陈倩倩，一名持续打磨工程能力的计算机相关专业学生，主要关注 **Java 后端、测试开发与 AI 应用工程**。
 
-我喜欢把项目从“能运行”继续整理到“能展示、能复现、能维护”的状态：补齐文档、梳理流程、修掉细节问题，也会尽量让代码和页面都保持清楚、干净、有一点自己的风格。
+我喜欢把“能运行”的项目继续推进到“可验证、可维护、可复现”：从接口设计、数据库建模，到自动化测试、质量门禁和文档沉淀，都尽量留下清晰的工程痕迹。
 
-- 主要方向：Java Web、Spring 生态、MySQL、Redis、项目工程化
-- 正在学习：AI 聊天应用、RAG、SSE 流式响应、模型接入
-- 也在实践：操作系统内核、Python 数据分析、Spark 任务、课程项目展示和报告整理
-- 偏好的工作方式：先跑通，再打磨；先明确问题，再动手修改
+- **后端方向**：Spring Boot、REST API、MyBatis/JPA、MySQL/PostgreSQL、Redis
+- **测试开发**：接口自动化、MockMvc、Testcontainers、JaCoCo、CI 质量门禁
+- **AI 实践**：Agent Loop、RAG、Embedding、工具调用、SSE 流式响应
+- **工程习惯**：先跑通，再打磨；用测试和文档让结果可复现
 
-## Tech Stack
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SoftwareCup · 智能学习多智能体平台</h3>
+      <p>Java 后端 + Python Agent + Vue 3 的学习平台，同时包含可配置 HTTP 回归、执行历史、质量仪表盘和环境探针。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2021-Spring%20Boot%204-f3f8ee?style=flat&logo=springboot&logoColor=6db33f" alt="Java Spring Boot" />
+        <img src="https://img.shields.io/badge/Test%20Dev-Automation-faf7ff?style=flat&logo=githubactions&logoColor=7c5ca8" alt="test development" />
+        <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20H2-eff6ff?style=flat&logo=postgresql&logoColor=4479a1" alt="database" />
+      </p>
+      <a href="https://github.com/QQisDebugging/softwareCup">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>JChatMind · AI Agent 对话平台</h3>
+      <p>基于 Spring AI 的可扩展对话与知识库平台，实践 Agent 编排、工具调用、RAG、pgvector 和 SSE。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2017-Spring%20AI-fff0f6?style=flat&logo=openjdk&logoColor=c0568d" alt="Java Spring AI" />
+        <img src="https://img.shields.io/badge/RAG-pgvector-f7fbff?style=flat&logo=postgresql&logoColor=4e86a8" alt="RAG pgvector" />
+        <img src="https://img.shields.io/badge/Testcontainers-JUnit%205-faf7ff?style=flat&logo=docker&logoColor=7c5ca8" alt="Testcontainers JUnit" />
+      </p>
+      <a href="https://github.com/QQisDebugging/JChatMind">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Oops-OS · xv6-RISCV 内核实践</h3>
+      <p>围绕系统调用、进程调度、内存管理、文件系统和设备管理进行功能扩展与验证。</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-f7fbff?style=flat&logo=c&logoColor=4e86a8" alt="C" />
+        <img src="https://img.shields.io/badge/RISC--V-fff7fb?style=flat&logo=riscv&logoColor=c0568d" alt="RISC-V" />
+        <img src="https://img.shields.io/badge/Linux-faf7ff?style=flat&logo=linux&logoColor=7c5ca8" alt="Linux" />
+      </p>
+      <a href="https://github.com/QQisDebugging/Oops-OS">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lab Resource Manage · 实验室资源管理</h3>
+      <p>围绕用户、实验室、资源、活动、借用、维修和公告等场景实现的 Spring + MySQL 课程项目。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring-f3f8ee?style=flat&logo=spring&logoColor=6db33f" alt="Spring" />
+        <img src="https://img.shields.io/badge/MySQL-eff6ff?style=flat&logo=mysql&logoColor=4479a1" alt="MySQL" />
+      </p>
+      <a href="https://github.com/QQisDebugging/hfut-xc-lab-resource-manage-main">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-fff0f6?style=for-the-badge&logo=openjdk&logoColor=c0568d" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-f3f8ee?style=for-the-badge&logo=springboot&logoColor=6db33f" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-eff6ff?style=for-the-badge&logo=mysql&logoColor=4479a1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-fff1f2?style=for-the-badge&logo=redis&logoColor=dc382d" alt="Redis" />
-  <img src="https://img.shields.io/badge/C-f7fbff?style=for-the-badge&logo=c&logoColor=4e86a8" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-faf7ff?style=for-the-badge&logo=linux&logoColor=7c5ca8" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vue-f0fdf4?style=for-the-badge&logo=vuedotjs&logoColor=42b883" alt="Vue" />
+  <img src="https://img.shields.io/badge/Spring%20AI-faf7ff?style=for-the-badge&logo=spring&logoColor=7c5ca8" alt="Spring AI" />
   <img src="https://img.shields.io/badge/Python-f8fafc?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python" />
-  <img src="https://img.shields.io/badge/Maven-fdf2f8?style=for-the-badge&logo=apachemaven&logoColor=c71a36" alt="Maven" />
-  <img src="https://img.shields.io/badge/Git-faf5ff?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/JUnit%20%2F%20MockMvc-f7fbff?style=for-the-badge&logo=junit5&logoColor=4e86a8" alt="JUnit MockMvc" />
+  <img src="https://img.shields.io/badge/Testcontainers-eff6ff?style=for-the-badge&logo=docker&logoColor=4479a1" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/MySQL%20%2F%20PostgreSQL-fff1f2?style=for-the-badge&logo=postgresql&logoColor=dc382d" alt="databases" />
+  <img src="https://img.shields.io/badge/Redis-faf5ff?style=for-the-badge&logo=redis&logoColor=f05032" alt="Redis" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-f0fdf4?style=for-the-badge&logo=githubactions&logoColor=42b883" alt="GitHub Actions" />
 </p>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Oops-OS</h3>
-      <p>基于 xv6-RISCV 的小型 OS 内核实现，围绕系统调用、进程调度、内存管理、文件系统和设备管理做功能扩展与验证。</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-f7fbff?style=flat&logo=c&logoColor=4e86a8" alt="C" />
-        <img src="https://img.shields.io/badge/RISC--V-fff7fb?style=flat&logo=riscv&logoColor=c0568d" alt="RISC-V" />
-        <img src="https://img.shields.io/badge/Kernel-faf7ff?style=flat&logo=linux&logoColor=7c5ca8" alt="Kernel" />
-      </p>
-      <a href="https://github.com/QQisDebugging/Oops-OS">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>JChatMind</h3>
-      <p>AI 聊天应用实践项目，重点关注 Java 后端、流式响应、工具调用、RAG 思路和工程化整理。</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-fff0f6?style=flat&logo=openjdk&logoColor=c0568d" alt="Java" />
-        <img src="https://img.shields.io/badge/AI%20Chat-faf7ff?style=flat&logo=openai&logoColor=7c5ca8" alt="AI Chat" />
-        <img src="https://img.shields.io/badge/SSE-f7fbff?style=flat&logo=databricks&logoColor=4e86a8" alt="SSE" />
-      </p>
-      <a href="https://github.com/QQisDebugging/JChatMind">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Lab Resource Manage</h3>
-      <p>实验室资源管理系统课程项目，围绕用户、实验室、资源、活动、请假、借用、维修和公告等管理场景实现。</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring-f3f8ee?style=flat&logo=spring&logoColor=6db33f" alt="Spring" />
-        <img src="https://img.shields.io/badge/MySQL-eff6ff?style=flat&logo=mysql&logoColor=4479a1" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Course%20Project-fff7fb?style=flat&logo=readme&logoColor=c0568d" alt="Course Project" />
-      </p>
-      <a href="https://github.com/QQisDebugging/hfut-xc-lab-resource-manage-main">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>企业之家</h3>
-      <p>大一大创期间制作的静态网页项目，包含企业服务与政策信息展示、留言页面和 2048 小游戏页面。</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-fff0f6?style=flat&logo=html5&logoColor=e34f26" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-f7fbff?style=flat&logo=css&logoColor=4e86a8" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-faf7ff?style=flat&logo=javascript&logoColor=b8860b" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/QQisDebugging/qiyezhijia">View Repository</a>
-    </td>
-  </tr>
-</table>
-
-## More Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>HFUTSCNetworkStudy</strong>
-      <br />
-      GitHub Actions 与 Python 自动化实践 fork，用于理解工作流配置和脚本运行方式。
-      <br />
-      <a href="https://github.com/QQisDebugging/HFUTSCNetworkStudy">View Repository</a>
-    </td>
-    <td width="50%">
-      <strong>Profile README</strong>
-      <br />
-      这个仓库用于维护 GitHub 个人主页，记录近期项目、技术栈和展示风格。
-      <br />
-      <a href="https://github.com/QQisDebugging/QQisDebugging">View Repository</a>
-    </td>
-  </tr>
-</table>
-
-## Current Focus
+## 🎯 Current Focus
 
 ```text
-Java backend          Spring / Spring MVC / MyBatis-Plus
-AI application        Chat app / SSE / RAG / model integration
-OS practice           xv6-RISCV / C / scheduler / memory / filesystem
-Data practice         Python / Spark / Pandas / analysis reports
-Project polish        README / deployment notes / demo-ready details
-Web showcase          HTML / CSS / JavaScript / static pages
+Backend        Spring Boot · API design · persistence · exception handling
+Test Dev       HTTP automation · contract checks · integration testing · CI gates
+AI Engineering Agent orchestration · RAG · vector search · streaming responses
+Fundamentals   Linux · xv6-RISCV · data structures · database design
 ```
 
-## Contribution Garden
+## 📈 GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QQisDebugging&bg_color=fff7fb&color=c05a8e&line=f3a6c8&point=cbb6ff&area=true&area_color=f8b8d0&hide_border=true&radius=8&custom_title=Contribution%20Garden&title_color=c05a8e" alt="QQisDebugging contribution activity graph" />
 </p>
 
-## GitHub Notes
+## 🌱 A Little More
 
-<table>
-  <tr>
-    <td width="33%">
-      <strong>Code</strong>
-      <br />
-      Java backend, clear modules, stable APIs.
-    </td>
-    <td width="33%">
-      <strong>Build</strong>
-      <br />
-      From runnable demos to polished project showcases.
-    </td>
-    <td width="33%">
-      <strong>Learn</strong>
-      <br />
-      AI apps, data practice, and engineering details.
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repository%20Style-Clean%20README-fff0f6?style=for-the-badge&labelColor=f6a8c9&color=fff7fb" alt="Clean README" />
-  <img src="https://img.shields.io/badge/Project%20Goal-Demo%20Ready-faf7ff?style=for-the-badge&labelColor=cbb6ff&color=f7fbff" alt="Demo ready" />
-</p>
-
-## A Little More
-
-我希望自己的项目不是只停在功能完成，而是可以被清楚地阅读、稳定地运行，并且在展示时能让人快速看懂设计思路。
-
-喜欢温柔一点的配色，也喜欢有秩序的目录、明确的提交记录和不含糊的 README。
+我相信好的项目不仅要实现功能，也要让别人能够快速理解、稳定运行并放心修改。欢迎通过 [GitHub](https://github.com/QQisDebugging) 交流 Java 后端、测试工程和 AI 应用实践。
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b7e4f9,50:d9c4ff,100:f8b8d0" alt="profile footer" />
