@@ -100,7 +100,11 @@ Fundamentals   Linux · xv6-RISCV · data structures · database design
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QQisDebugging&bg_color=fff7fb&color=c05a8e&line=f3a6c8&point=cbb6ff&area=true&area_color=f8b8d0&hide_border=true&radius=8&custom_title=Contribution%20Garden&title_color=c05a8e" alt="QQisDebugging contribution activity graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QQisDebugging&theme=github" alt="QQisDebugging contribution activity summary" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/f3a6c8/QQisDebugging" alt="QQisDebugging contribution calendar" />
 </p>
 
 ## 🌱 A Little More
